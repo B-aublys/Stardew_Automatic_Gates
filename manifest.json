@@ -1,0 +1,10 @@
+{
+  "Name": "AutomaticGates",
+  "Author": "Baublys",
+  "Version": "0.1.0",
+  "Description": "When you walk next to a gate it opens the gate and closes when you are further from it",
+  "UniqueID": "Baublys.AutomaticGates",
+  "EntryDll": "AutomaticGates.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
